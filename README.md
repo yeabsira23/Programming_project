@@ -6,6 +6,11 @@ TibebLang translates `.yl` source files into executable Python code.
 
 ---
 
+CSE ASTU Student Programming Team Project
+Group Members	ID_No.
+Yeabsira Goitom	UGR/31390/15
+
+
 # Features
 
 - Amharic-based programming keywords
